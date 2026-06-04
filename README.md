@@ -52,7 +52,7 @@ Atualmente construo o **[Koinonia](https://github.com/michel-soares1/koinonia-sh
 | Python / PySpark | IQVIA, Databricks |
 | SQL (Teradata) | Grupo Pão de Açúcar |
 | Power BI / MicroStrategy | Abbott, EMS |
-| SAP (HR, PY, SD) | IBM — 7 anos |
+| SAP (HR, PY, SD) | IBM |
 | AWS / IBM Watson | Pós-graduação Mackenzie |
 
 ---
